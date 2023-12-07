@@ -34,4 +34,12 @@ array.shift();
 // console.log(array[1]);
 console.log (array);
  // This is loop
+ var numbers =[1,2,3,4,5,6,7,8,9,10];
  
+for (var i = 0;i <numbers.length;i++){
+console.log(numbers[i]);
+}
+for (let index = 0; index <20; index++) {
+console.log(index);
+ 
+}
