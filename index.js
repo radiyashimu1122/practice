@@ -10,13 +10,28 @@ const num4 = parseInt (num2-num3);
 // console.log(num4);
 var age = 50;
 if (age>=50 ) {
- console.log("Tumi ekjon briddho manush")
+ // console.log("Tumi ekjon briddho manush")
 }
 else if (age<18) {
-  console.log("Tumi baccha manush");
+  // console.log("Tumi baccha manush");
 }
 else {
-console.log("Error")
+// console.log("Error")
 }
-
+// This is object
+var person ={
+ name:"Radiya Akther Shimu",
+ age:19,
+}
+// console.log(person);
+// console.log(person.name);
+// This is Array
+var array = [1,2,3,4];
+array.shift();
+// array.unshift("glass");
+// array.pop();
+// array.push("shimu");
+// console.log(array[1]);
+console.log (array);
+ // This is loop
  
