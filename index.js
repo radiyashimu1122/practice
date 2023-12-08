@@ -61,3 +61,13 @@ console.log (array);
 // console.log( output)
 // addTwoNumber(34,69);
 // addTwoNumber(89,69);
+function addTwoNumber(num) {
+if (num%2==0) {
+  return "eta ekta jor sonkha"
+}
+else{
+  return "eta ekta bijor sonkha"
+}
+}
+var output =addTwoNumber(9);
+console.log(output);
