@@ -34,12 +34,21 @@ array.shift();
 // console.log(array[1]);
 console.log (array);
  // This is loop
- var numbers =[1,2,3,4,5,6,7,8,9,10];
+ var numbers =["s","p"];
  
-for (var i = 0;i <numbers.length;i++){
-console.log(numbers[i]);
-}
-for (let index = 0; index <20; index++) {
-console.log(index);
- 
-}
+// for (var i = 0;i <numbers.length;i++){
+// console.log(numbers[i]);
+// }
+//  for (var index = 0; index <10; index++) {
+// console.log(index);
+// }
+// for(var i =0;i<numbers.length;i++){
+//   var element = numbers[i];
+//   if (element ==5) {
+//     console.log("paisi tore")
+//   }
+//   else{
+//     console.log("pai nai")
+//   }
+// }
+// This is function
