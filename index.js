@@ -61,13 +61,22 @@ console.log (array);
 // console.log( output)
 // addTwoNumber(34,69);
 // addTwoNumber(89,69);
-function addTwoNumber(num) {
-if (num%2==0) {
-  return "eta ekta jor sonkha"
-}
-else{
-  return "eta ekta bijor sonkha"
-}
-}
-var output =addTwoNumber(9);
-console.log(output);
+// function addTwoNumber(num) {
+// if (num%2==0) {
+//   return "eta ekta jor sonkha"
+// }
+// else{
+//   return "eta ekta bijor sonkha"
+// }
+// }
+// var output =addTwoNumber(9);
+// console.log(output);
+// This is ES6 start
+// var a="shimu";
+// console.log('My name is:'  +a);
+// let a6='Radiya Akther';
+// console.log('My name is'+a6);
+// a6 = 'shimu';
+// console.log("Now the name is :"  +a6 );
+const b6 ='Shimu';
+console.log('My name is:'+b6);
