@@ -52,3 +52,12 @@ console.log (array);
 //   }
 // }
 // This is function
+// function addTwoNumber(s,p) {
+  // console.log(s+p);
+  // var result =s-p;
+  // return result;
+// }
+// var output = addTwoNumber(29,50);
+// console.log( output)
+// addTwoNumber(34,69);
+// addTwoNumber(89,69);
